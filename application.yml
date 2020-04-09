@@ -1,0 +1,2 @@
+config:
+  cloud: spring-dev-cloud,version=1
